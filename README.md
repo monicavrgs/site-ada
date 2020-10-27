@@ -1,3 +1,3 @@
 # Site Ada Lovelace
 
-Site criado durante o curso "Eu Progr{amo}" da Programaria. 
+Site criado no curso "Eu Progr{amo}" da Programaria. 
